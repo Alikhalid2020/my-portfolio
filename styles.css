@@ -26,8 +26,10 @@ body{
 .home{
     background-image: url("./images/joanna-kosinska-1_CMoFsPfso-unsplash.jpg");
     background-size: cover;
-    height: 80vh;
+    height: 47vh;
     text-align: right;
+    padding-top: 280px;
+    padding-right: 160px;
 }
 .about p{
     text-align: right;
@@ -35,8 +37,13 @@ body{
 aside{
     float: right;
     width: 50%;
+    font-family: 'Courier New', Courier, monospace;
 }
 .p1{
     padding-right: 100%;
+}
+h2{
+    text-align: center;
+    float:centor;
 }
     
