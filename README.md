@@ -28,7 +28,7 @@ To fix a bug or enhance an existing module, follow these steps:
 - [CSS](https://www.w3schools.com/css/) - css tutorial.
 - [Javascript](https://www.w3schools.com/js/) - javascrit tutorial.
 ## Author
-- Khalid Ali
+- KHALID ALI
 ## License
 [MIT](https://github.com/Alikhalid2020/my-portfolio/blob/master/LICENSE.md)
  © [Khalid Ali](https://github.com/Alikhalid2020)
